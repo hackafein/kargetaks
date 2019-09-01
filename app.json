@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "kargetaks",
+  "scripts": {
+    "postdeploy": "/runapp.py"
+  },
+  "stack": "heroku-18"
+}
